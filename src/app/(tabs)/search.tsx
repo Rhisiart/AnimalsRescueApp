@@ -5,7 +5,7 @@ export default function Search() {
   return (
     <View >
       <View >
-        <Text>Search screen</Text>
+        <Text>Search screen!</Text>
       </View>
     </View>
   )
