@@ -14,9 +14,9 @@ export default function TabRoutesLayout() {
         }}
       />
       <Tabs.Screen 
-        name="search"
+        name="find"
         options={{
-          title: "Search",
+          title: "Find",
           tabBarIcon: ({ size, color }) => (
             <MaterialIcons name="search" size={size} color={color}/>
           )
